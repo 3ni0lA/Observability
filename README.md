@@ -13,13 +13,13 @@
  
  **Specialized Backends:** Routinely sends data to optimal storage solutions: 
  
- * ** Metrics to **Prometheus**
- * **Logs to **Grafana Loki**
- * ** Distributed Traces to **Grafana Tempo**
- * **Unified Visualization:** Consolidates all three pillars into **Grafana** for a single pane of glass view. 
+ * **Metrics** **to** **Prometheus**
+ * **Logs** **to** **Grafana Loki**
+ * **Distributed** **Traces** **to** **Grafana Tempo**
+ * **Unified Visualization:** Consolidates all three pillars into **Grafana** for a *single pane of glass view*. 
  
  #### Expected Benefits **End-to-End Visibility:** Gain a complete view of request flows through complex service boundaries. 
  
-**Reduced MTTR:** Dramatically slash Mean Time To Resolution for incidents. 
+**Reduced MTTR:** Dramatically *slash* Mean Time To **Resolution for incidents**. 
 
-**Enhanced Understanding:** Clearly trace where bottlenecks and failures occur
+**Enhanced Understanding:** Clearly trace where bottlenecks and **failures occur**
